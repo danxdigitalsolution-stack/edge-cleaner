@@ -3,6 +3,9 @@
 A small PySide6 desktop tool that removes leftover **old version folders**
 from Microsoft Edge / WebView2 installations, which normally can't be
 deleted manually because the files are still locked by running processes.
+---
+<img width="765" height="555" alt="Screenshot 2026-09-06 201142" src="https://github.com/user-attachments/assets/a5447c67-55e3-496c-94a7-7a61248982ab" />
+---
 
 It targets these two folders:
 
